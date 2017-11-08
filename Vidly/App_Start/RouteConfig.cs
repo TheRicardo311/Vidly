@@ -9,6 +9,7 @@ namespace Vidly
 {
     public class RouteConfig
     {
+        //start
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
